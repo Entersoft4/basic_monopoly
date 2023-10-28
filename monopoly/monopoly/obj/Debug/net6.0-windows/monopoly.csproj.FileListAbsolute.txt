@@ -1,0 +1,16 @@
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\bin\Debug\net6.0-windows\monopoly.exe
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\bin\Debug\net6.0-windows\monopoly.deps.json
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\bin\Debug\net6.0-windows\monopoly.runtimeconfig.json
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\bin\Debug\net6.0-windows\monopoly.dll
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\bin\Debug\net6.0-windows\monopoly.pdb
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\monopoly.Form1.resources
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\monopoly.csproj.GenerateResource.cache
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\monopoly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\monopoly.AssemblyInfoInputs.cache
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\monopoly.AssemblyInfo.cs
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\monopoly.csproj.CoreCompileInputs.cache
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\monopoly.dll
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\refint\monopoly.dll
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\monopoly.pdb
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\monopoly.genruntimeconfig.cache
+D:\Belgeler\GİTHUB\Monopoly\basic_monopoly\monopoly\monopoly\obj\Debug\net6.0-windows\ref\monopoly.dll
